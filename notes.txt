@@ -1,2 +1,3 @@
 first note
 clone test
+second note from clone
