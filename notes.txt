@@ -3,3 +3,4 @@ clone test
 second note from clone
 search feature
 title bugfix
+cleaned code
